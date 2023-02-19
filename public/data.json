@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "category": 5,
+    "name": "Клавиатура №1",
+    "price": 3000,
+    "photos": "https://myblaze.ru/wp-content/uploads/2013/03/logitech_k200.jpg",
+    "quantity": 0
+  },
+  {
+    "id": 2,
+    "category": 5,
+    "name": "Клавиатура №2",
+    "price": 4000,
+    "photos": "https://img.mvideo.ru/Pdb/50118293b.jpg",
+    "quantity": 0
+  },
+  {
+    "id": 3,
+    "category": 5,
+    "name": "Клавиатура №3",
+    "price": 4500,
+    "photos": "https://4frag.ru/image/cache/data/product/razer-cynosa-v2-1-1000x1000.jpg",
+    "quantity": 0
+  },
+  {
+    "id": 4,
+    "category": 4,
+    "name": "Мышь №1",
+    "price": 2500,
+    "photos": "https://img.fix-price.com/800x800/images/origin/origin/4e72c7003b12d997f8b9a00b75e57693.jpg",
+    "quantity": 0
+  },
+  {
+    "id": 5,
+    "category": 4,
+    "name": "Мышь №2",
+    "price": 3500,
+    "photos": "https://irecommend.ru/sites/default/files/product-images/27032/22656_800x600_b.jpg",
+    "quantity": 0
+  },
+  {
+    "id": 6,
+    "category": 4,
+    "name": "Мышь №3",
+    "price": 5000,
+    "photos": "https://avatars.mds.yandex.net/get-mpic/6647093/img_id1986443132446354518.jpeg/orig",
+    "quantity": 0
+  },
+  {
+    "id": 7,
+    "category": 3,
+    "name": "Системник №1",
+    "price": 30000,
+    "photos": "https://avatars.mds.yandex.net/get-mpic/3612791/img_id52919799437909699.jpeg/orig",
+    "quantity": 0
+  },
+  {
+    "id": 8,
+    "category": 3,
+    "name": "Системник №2",
+    "price": 60000,
+    "photos": "https://micron-nsk.ru/img/p/7/0/2/702-large_default.jpg",
+    "quantity": 0
+  },
+  {
+    "id": 9,
+    "category": 3,
+    "name": "Системник №3",
+    "price": 40000,
+    "photos": "https://img.mvideo.ru/Pdb/30045696b.jpg",
+    "quantity": 0
+  },
+  {
+    "id": 10,
+    "category": 2,
+    "name": "Монитор №1",
+    "price": 15000,
+    "photos": "https://hiper-power.com/upload/iblock/c01/pcohuuzqt0gogzb0wfdtjalu2ze3e84z/FH-2401-1.jpg",
+    "quantity": 0
+  },
+  {
+    "id": 11,
+    "category": 2,
+    "name": "Монитор №2",
+    "price": 12000,
+    "photos": "https://main-cdn.sbermegamarket.ru/big1/hlr-system/153/864/002/381/113/12/100032293953b0.jpg",
+    "quantity": 0
+  },
+  {
+    "id": 12,
+    "category": 2,
+    "name": "Монитор №3",
+    "price": 18000,
+    "photos": "https://www.lg.com/hk_en/images/monitor/md07533533/gallery/large-m01.jpg",
+    "quantity": 0
+  },
+  {
+    "id": 13,
+    "category": 1,
+    "name": "Ноутбук №1",
+    "price": 27000,
+    "photos": "https://avatars.mds.yandex.net/get-mpic/7452703/img_id4924348212118874493.jpeg/orig",
+    "quantity": 0
+  },
+  {
+    "id": 14,
+    "category": 1,
+    "name": "Ноутбук №2",
+    "price": 34000,
+    "photos": "https://shop.lenovo.ru/upload/resize_cache/content_webp/c52c806a-4905-11eb-80d9-005056963b6e/1.webp",
+    "quantity": 0
+  },
+  {
+    "id": 15,
+    "category": 1,
+    "name": "Ноутбук №3",
+    "price": 45000,
+    "photos": "https://items.s1.citilink.ru/1675522_v01_b.jpg",
+    "quantity": 0
+  }
+]

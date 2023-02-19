@@ -1,0 +1,76 @@
+table {
+  width: 50%;
+  border: solid 1px #000000;
+  margin: 70px auto;
+}
+
+td {
+  padding: 2%;
+  border: solid 1px #000000;
+}
+
+td img {
+  width: 90px;
+  height: 80px;
+  vertical-align: middle;
+}
+
+.button {
+  padding: 10px;
+  cursor: pointer;
+}
+
+.h2 {
+  margin: 0;
+  display: inline;
+  margin-right: 10%;
+}
+
+.div {
+  width: 65%;
+  margin-left: 21%;
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+
+.quantity {
+  font-weight: normal;
+  font-size: 23px;
+  margin: 0;
+}
+
+.divIcon {
+  margin-left: 78%;
+  margin-top: 2.4%;
+  position: absolute;
+}
+
+.iconDelete {
+  display: block;
+  margin-top: 90px;
+  cursor: pointer;
+  font-size: 25px;
+}
+
+.iconSad {
+  font-size: 30px;
+}
+
+.iconMinus,
+.iconPlus {
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.deleteButton {
+  background-color: antiquewhite;
+  padding: 15px 36px 16px 36px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: transform 0.3s;
+}
+
+.deleteButton:active {
+  padding: 12px 30px 12px 30px;
+}

@@ -1,0 +1,101 @@
+.header {
+  width: 100%;
+  height: 100px;
+  background-color: black;
+}
+
+h2 {
+  margin-top: 200px;
+}
+
+ul {
+  float: right;
+  margin-right: 50%;
+  width: 45%;
+  margin-top: 30px;
+}
+
+li {
+  color: white;
+  list-style-type: none;
+  float: left;
+  margin-left: 15px;
+  font-size: 1.2rem;
+  cursor: pointer;
+  padding: 5px;
+}
+
+li:hover {
+  background-color: lightskyblue;
+  border-radius: 5px;
+}
+
+input {
+  margin-top: 32px;
+  padding: 10px;
+  margin-left: 60%;
+  width: 15%;
+  border: none;
+  border-radius: 10px;
+  outline: none;
+  font-size: 1.1rem;
+  float: right;
+  position: absolute;
+}
+
+p {
+  color: white;
+  float: right;
+  font-size: 1.2rem;
+  cursor: pointer;
+  margin-top: 30px;
+  margin-right: 10%;
+  margin-left: 90%;
+  padding: 5px;
+  position: absolute;
+}
+
+p:hover {
+  background-color: lightskyblue;
+  border-radius: 5px;
+}
+
+.img {
+  width: 250px;
+  height: 200px;
+}
+
+.div {
+  display: inline-block;
+  vertical-align: middle;
+  width: 260px;
+  height: 400px;
+  margin: 0px 50px 20px 0;
+}
+
+.h4 {
+  color: black;
+  margin-right: 0px;
+}
+
+.button {
+  padding: 12px 30px 12px 30px;
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+  background-color: black;
+  color: white;
+  transition: transform 0.3s;
+}
+
+.button:active {
+  padding: 10px 28px 10px 28px;
+}
+
+i {
+  font-size: 20px;
+  color: white;
+  position: absolute;
+  margin-left: 95%;
+  margin-top: 35px;
+}
